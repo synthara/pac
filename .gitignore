@@ -12,3 +12,6 @@ formal/fall_through_register
 *.check
 *.vcd
 obj_dir/
+hw_config/__pycache__/
+hw_config/**/*.pyc
+*.pyc
